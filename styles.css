@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;    
+   
+  }
+  
+p {
+    color: rgb(10, 10, 0);
+     }
+  
+h1 {
+    font-size: 36px;
+  }
+h3 {
+      font-size: 30px;
+      color: Blue;
+  }
+  
+.center {
+    text-align: center;
+  }
+  
+#cool-text{
+    color: blue
+  }
+  
+#red-text{
+    color: red;
+  }
+li {
+    padding-top: 10px;
+    /* padding-right: 30px; */
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: 1px solid black; */
+    margin-top: 5px;
+    margin-left: 1px;
+    background-color: rgb(77, 187, 26);
+      }
+  }
