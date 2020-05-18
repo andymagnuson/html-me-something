@@ -5,6 +5,10 @@ body {
   
 p {
     color: rgb(10, 10, 0);
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;;
      }
   
 h1 {
@@ -28,12 +32,8 @@ h3 {
   }
 li {
     padding-top: 10px;
-    /* padding-right: 30px; */
+    
     padding-bottom: 10px;
     padding-left: 40px;
-    border: 1px solid black; */
-    margin-top: 5px;
-    margin-left: 1px;
-    background-color: rgb(77, 187, 26);
-      }
-  }
+    }
+  
